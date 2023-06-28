@@ -1,0 +1,26 @@
+<svg width="410" height="35" viewBox="0 0 410 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="6" cy="8" r="6" fill="white"/>
+<circle cx="33" cy="8" r="6" fill="white"/>
+<path d="M35 33C35 25.268 27.8366 19 19 19C10.1634 19 3 25.268 3 33" stroke="white" stroke-width="3" stroke-linecap="square"/>
+<circle cx="112" cy="8" r="6" fill="white"/>
+<circle cx="139" cy="8" r="6" fill="white"/>
+<path d="M141 33C141 25.268 133.837 19 125 19C116.163 19 109 25.268 109 33" stroke="white" stroke-width="3" stroke-linecap="square"/>
+<circle cx="218" cy="8" r="6" fill="white"/>
+<circle cx="245" cy="8" r="6" fill="white"/>
+<path d="M247 33C247 25.268 239.837 19 231 19C222.163 19 215 25.268 215 33" stroke="white" stroke-width="3" stroke-linecap="square"/>
+<circle cx="324" cy="8" r="6" fill="white"/>
+<circle cx="351" cy="8" r="6" fill="white"/>
+<path d="M353 33C353 25.268 345.837 19 337 19C328.163 19 321 25.268 321 33" stroke="white" stroke-width="3" stroke-linecap="square"/>
+<circle cx="86" cy="27" r="6" transform="rotate(-180 86 27)" fill="white"/>
+<circle cx="59" cy="27" r="6" transform="rotate(-180 59 27)" fill="white"/>
+<path d="M57 2C57 9.73198 64.1634 16 73 16C81.8366 16 89 9.73199 89 2" stroke="white" stroke-width="3" stroke-linecap="square"/>
+<circle cx="192" cy="27" r="6" transform="rotate(-180 192 27)" fill="white"/>
+<circle cx="165" cy="27" r="6" transform="rotate(-180 165 27)" fill="white"/>
+<path d="M163 2C163 9.73198 170.163 16 179 16C187.837 16 195 9.73199 195 2" stroke="white" stroke-width="3" stroke-linecap="square"/>
+<circle cx="298" cy="27" r="6" transform="rotate(-180 298 27)" fill="white"/>
+<circle cx="271" cy="27" r="6" transform="rotate(-180 271 27)" fill="white"/>
+<path d="M269 2C269 9.73198 276.163 16 285 16C293.837 16 301 9.73199 301 2" stroke="white" stroke-width="3" stroke-linecap="square"/>
+<circle cx="404" cy="27" r="6" transform="rotate(-180 404 27)" fill="white"/>
+<circle cx="377" cy="27" r="6" transform="rotate(-180 377 27)" fill="white"/>
+<path d="M375 2C375 9.73198 382.163 16 391 16C399.837 16 407 9.73199 407 2" stroke="white" stroke-width="3" stroke-linecap="square"/>
+</svg>
